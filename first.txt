@@ -5,3 +5,4 @@ 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
 
 - git add
 - git commit
+- remove
